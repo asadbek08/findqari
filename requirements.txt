@@ -39,6 +39,7 @@ packaging==24.2
 platformdirs==4.3.6
 pooch==1.8.2
 pycparser==2.22
+pydub==0.25.1
 PyYAML==6.0.2
 requests==2.32.3
 ruamel.yaml==0.18.6
